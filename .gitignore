@@ -1,0 +1,5 @@
+activities/**/target
+solutions/**/target
+/target
+src/activities
+solutions
