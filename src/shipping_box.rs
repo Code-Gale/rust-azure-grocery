@@ -28,7 +28,6 @@
 // Display again
 // Seal it
 // Display one last time
-#[allow(dead_code)]
 enum Color {
     Black,
     White,
